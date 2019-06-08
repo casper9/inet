@@ -1,7 +1,8 @@
 # inet
 Polosan Internet
 
-agar stabil 
+agar stabil masukkan koden ini
+ 
 $apt update
 
 $pkg upgrade
